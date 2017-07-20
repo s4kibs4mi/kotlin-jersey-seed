@@ -6,7 +6,7 @@ This is a seed project to start restful web development with jersey using kotlin
 #### How to
 Open your favourite gradle supported IDE and import the project.
 Do required addition or modification,
-Then `Run` then project or `Build` `Jar`.
+Then `Run` the project or `Build` `Jar`.
 
 ### License
 Copyright &copy;  Sakib Sami
