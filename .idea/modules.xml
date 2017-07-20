@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-jersey-seed.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-jersey-seed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-jersey-seed_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-jersey-seed_main.iml" group="kotlin-jersey-seed" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-jersey-seed_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-jersey-seed_test.iml" group="kotlin-jersey-seed" />
+    </modules>
+  </component>
+</project>
